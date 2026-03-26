@@ -1,36 +1,47 @@
-# 🚀 Welcome to My Digital Space
+# 🌌 Welcome to My Personal Space
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Hello,%20I'm%20shouzhuo&fontSize=80&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=glitch&color=00b4d8&height=200&section=header&text=Slow%20Starter,%20Fast%20Dreamer&fontSize=50&animation=fadeIn" />
 </p>
 
-### 👨‍💻 关于我 (About Me)
-- 🔭 **正在深耕**: 专注于 **Python** 生态与 **PyQt5** 桌面应用架构。
-- 🛠️ **核心项目**: 正在开发 [AI Desk](你的仓库链接) —— 一个具备模式路由、透明 UI 与“情感记忆”系统的开源桌面 AI 助手。
-- 🎨 **设计理念**: 追求极致的 **Cyberpunk** 视觉风格、半透明毛玻璃效果以及精准的 UI 排版。
-- 🔬 **研究兴趣**: 信号处理中的特征提取，以及如何让 AI 表现出更类人的情绪化交互。
+### 🖋️ 独白 (Monologue)
+
+> **“虽然启程较慢，但我热忱技术，喜欢纯粹的事和人。”**
+
+在这个纷繁复杂的数字时代，我更倾向于寻找那些底层的纯粹。我坚信代码不仅是逻辑的堆砌，更是人类意志的延伸。让我们在这个 **AI 赋能的时代**，共同见证并塑造人类文明的新未来。
 
 ---
 
-### 🛠️ 我的技术栈 (Tech Stack)
+### 🛠️ 技术版图 (Tech Stack)
+
+我构建世界的基石：
+
+- 🐍 **Python**: 逻辑与效率的平衡。
+- ☕ **Java**: 稳健与系统的构建。
+- 🎨 **Frontend (HTML/CSS)**: 纯粹美学的视觉呈现。
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 这里的点滴 (GitHub Stats)
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shouzhuoshouzhuo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouzhuoshouzhuo&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=shouzhuoshouzhuo&show_icons=true&theme=transparent&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&hide_border=true" />
 </p>
 
 ---
 
-### 💬 联系我 (Get in Touch)
-- 📫 **Email**: [你的邮箱]
-- ⚡ **Fun Fact**: 我认为“抗锯齿”是界面的灵魂，所以我的项目永远首选 *Segoe UI Variable*。
+### 📫 遇见纯粹 (Connect with me)
+
+- **愿景**: 寻找志同道合的朋友，一起探讨 AI 时代的更多可能。
+- **态度**: 保持好奇，保持纯粹。
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it." />
+</p>
