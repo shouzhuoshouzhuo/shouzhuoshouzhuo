@@ -1,20 +1,5 @@
-# 🌌 Welcome to the Carbon-Based Survivor's Outpost
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=glitch&color=00b4d8&height=200&section=header&text=Error%20404:%20AI%20Not%20Replaced%20Me%20Yet&fontSize=40&animation=twinkling" />
-</p>
-
-
-
-
-### 🕵️‍♂️ AI 时代生存报告 (Survival Logs)
-
-为什么 AI 还没能把我优化掉？
-- 🐢 **非线性进化**：AI 一秒写完代码，我得想半天。但这说明我的人脑延迟更高，具备不可替代的“生物多样性”。
-- 🛡️ **纯粹加持**：只要我不写注释，Copilot 就永远猜不到我下一步要干嘛，这是人类最后的防御。
-- 🎨 **视觉坚持**：AI 永远不懂为什么 1 像素的偏移会让我彻夜难眠，我对 UI 渲染的执着是硅基生命无法理解的浪漫。
-
----
+# 👋 Hello, I'm a Human Who Refuses to Be Optimized by AI
+> Error 404: AI Not Replaced Me Yet
 
 ### 🛠️ 幸存者装备 (Survival Gear)
 
@@ -30,8 +15,6 @@
 </p>
 
 ---
-
-
 
 ### 👋 紧急避难联络 (Connect with me)
 
