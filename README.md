@@ -5,8 +5,9 @@
 ### 🖋️ 独白 (Monologue)
 
 > **“虽然启程较慢，但我热忱技术，喜欢纯粹的事和人。”**
+> **"Ideas never come out fully formed."** > 这是我的座右铭。灵感从未以完整的姿态降临，它们在纯粹的追寻与耐心的打磨中逐渐清晰。
 
-在这个纷繁复杂的数字时代，我更倾向于寻找那些底层的纯粹。我坚信代码不仅是逻辑的堆砌，更是人类意志的延伸。让我们在这个 **AI 赋能的时代**，共同见证并塑造人类文明的新未来。
+我坚信代码不仅是逻辑的堆砌，更是人类意志的延伸。让我们在这个 **AI 赋能的时代**，共同见证并塑造人类文明的新未来。
 
 ---
 
@@ -27,19 +28,7 @@
 
 ---
 
-### 📊 这里的点滴 (GitHub Stats)
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=shouzhuoshouzhuo&show_icons=true&theme=transparent&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&hide_border=true" />
-</p>
 
----
 
-### 📫 遇见纯粹 (Connect with me)
 
-- **愿景**: 寻找志同道合的朋友，一起探讨 AI 时代的更多可能。
-- **态度**: 保持好奇，保持纯粹。
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it." />
-</p>
