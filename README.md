@@ -11,7 +11,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-🟢%20Human_Developer-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Resistance-99%25-blue?style=for-the-badge" />
+
 </p>
 
 ---
