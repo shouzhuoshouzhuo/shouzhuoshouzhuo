@@ -1,6 +1,8 @@
 # 👋 Hello, I'm a Human Who Refuses to Be Optimized by AI
 > Error 404: AI Not Replaced Me Yet
-
+<p align="center">
+ <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Error%20404:%20Natural%20Intelligence%20Not%20Found&fontSize=30&animation=fadeIn" />
+</p>
 ### 🛠️ 幸存者装备 (Survival Gear)
 
 为了不被机器取代，我随身携带以下碳基武装：
