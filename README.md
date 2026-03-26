@@ -1,8 +1,6 @@
 # 🌌 Welcome to My Personal Space
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=glitch&color=00b4d8&height=200&section=header&text=Slow%20Starter,%20Fast%20Dreamer&fontSize=50&animation=fadeIn" />
-</p>
+
 
 ### 🖋️ 独白 (Monologue)
 
