@@ -26,3 +26,8 @@
 - ⚡ **态度**: 保持好奇，相信过程，优雅地在赛博荒原上“苟”下去。
 
 > **🚨 Warning: This README is 100% written by a human. No bots were harmed (but some were thoroughly confused) during the process.**
+
+## ✍️ 我的技术博客
+
+[访问「守拙手记」](https://shouzhuoshouzhuo.github.io/blog/)  
+记录可复现的工程经验、网络排障与开发实践。
