@@ -9,7 +9,7 @@
 
 - **🐍 Python** | 专门用来处理那些 AI 偶尔会产生“幻觉”的复杂逻辑。
 - **☕ Java** | 靠冗长的代码量撑起人类程序员最后的尊严（和厚度）。
-- **🎨 HTML/CSS** | 只要我把界面调得足够赛博朋克，AI 也会觉得眼花缭乱。
+- **🎨 React** | 只要我把界面调得足够赛博朋克，AI 也会觉得眼花缭乱。
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-🟢%20Human_Developer-brightgreen?style=for-the-badge" />
