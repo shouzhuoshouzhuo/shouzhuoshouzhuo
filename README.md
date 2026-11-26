@@ -1,5 +1,5 @@
 
-显然，我就是AI的harness和记忆层
+
 
 <div align="center">
 
